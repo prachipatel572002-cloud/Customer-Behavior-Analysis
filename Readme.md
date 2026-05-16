@@ -73,8 +73,8 @@ Power BI (Dashboard Visualization)
 
 | File Name | Description |
 |---|---|
-| `data_cleaning.ipynb` | Data cleaning and preprocessing using Python |
-| `customer_queries.sql` | SQL queries used for analysis |
+| `_cleaned_customer_behavior.ipynb` | Data cleaning and preprocessing using Python |
+| `customer_behavior_queries.sql` | SQL queries used for analysis |
 | `cleaned_customer_behavior.csv` | Cleaned dataset |
-| `dashboard.pbix` | Power BI dashboard file |
+| `customer_analysis_dashboard(1).pbix` | Power BI dashboard file |
 | `README.md` | Project documentation |
